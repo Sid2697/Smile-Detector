@@ -3,7 +3,7 @@ Using deep learning to detect smiles from a live video feed.
 ## Descreption
 This project was made for detecting smile in a live video using the webcam or a pre-recorded video.<br>
 ## Preview
-
+![Alt Text](https://github.com/Sid2697/Smile-Detector/blob/master/Dad_GIF.gif)
 ## Requirements
 - numpy
 - matplotlib
