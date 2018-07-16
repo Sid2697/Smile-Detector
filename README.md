@@ -1,7 +1,7 @@
 # Smile-Detector
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)<br><br>
 Using deep learning to detect smiles from a live video feed.
-## Descreption
+## Description
 This project was made for detecting smile in a live video using the webcam or a pre-recorded video.<br>
 ## Preview
 ![Alt Text](https://github.com/Sid2697/Smile-Detector/blob/master/Dad_GIF.gif)
